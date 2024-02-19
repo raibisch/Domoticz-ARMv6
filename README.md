@@ -10,9 +10,10 @@ libssl.so.1.1: cannot open shared object file: No such file ordirectory
 ```
 (the reason is inscribed in this post: domoticz/domoticz#5233)
 
+...there is no need to compile yourself:
 ## if you see this error after start take the version in the 'bookworm_10' folder
 
-...for the rest follow the existing readme... 
+...for the rest follow the existing readme: 
 
 ## Howto Update for ARMv6 (e.b. pi zero w)
 Like (many) others I got struck by updating Domoticz to the latest release at the beginning of january 2024, because I didn't read the update information
