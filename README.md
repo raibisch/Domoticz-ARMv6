@@ -10,7 +10,7 @@ libssl.so.1.1: cannot open shared object file: No such file ordirectory
 ```
 (the reason is inscribed in this post: domoticz/domoticz#5233)
 
-if you see this error after start take the version in the 'bookworm_10' folder+
+## if you see this error after start take the version in the 'bookworm_10' folder
 
 ...for the rest follow the existing readme... 
 
