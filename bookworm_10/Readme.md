@@ -7,6 +7,7 @@ so if you run into
 libssl.so.1.1: cannot open shared object file: No such file ordirectory
 ```
 
-if you see this error after start take the version in the 'bookworm_10' folder+
+if you see this error after start take this version in the 'bookworm_10' folder
+(is actual: domoticz 2024:
 
 ...for the rest follow the existing readme...
